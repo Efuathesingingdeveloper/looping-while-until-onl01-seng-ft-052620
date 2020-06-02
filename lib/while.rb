@@ -1,7 +1,9 @@
 def using_while
   levitation_force = 6
-	puts ""
+	puts "
+	
   #your code here
+  end
 end
 
 describe "#using_while" do 
